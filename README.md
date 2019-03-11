@@ -1,1 +1,4 @@
-# Other-codes
+# Other-code
+
+IBM Cloudant
+Plotly and Dash
