@@ -14,8 +14,8 @@ from watson_developer_cloud import ToneAnalyzerV3
 
 tone_analyzer = ToneAnalyzerV3(
         version='2017-09-21',
-        username='9ae93ac4-8752-4d42-8773-ac9200eedce5',
-        password='ci3M6CFZfCxG',
+        username='',
+        password='',
         url='https://gateway.watsonplatform.net/tone-analyzer/api'
     )
 app = dash.Dash()
